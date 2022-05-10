@@ -1,4 +1,4 @@
-package org.snakeAndLadder;
+package org.snakeAndLadder.dice;
 
 import java.util.Random;
 

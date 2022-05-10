@@ -1,4 +1,4 @@
-package org.snakeAndLadder;
+package org.snakeAndLadder.player;
 
 public class Player {
     private int position;

@@ -4,6 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
+import org.snakeAndLadder.dice.Dice;
+
 public class Main {
 
     private static List<Object> players = new ArrayList<>(); 

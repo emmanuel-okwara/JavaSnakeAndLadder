@@ -1,6 +1,8 @@
 package org.snakeAndLadder;
 
 import org.junit.jupiter.api.Test;
+import org.snakeAndLadder.dice.Dice;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 import java.beans.Transient;

@@ -1,8 +1,12 @@
 package org.snakeAndLadder.artifects;
 
+import org.snakeAndLadder.player.Player;
+
 import java.util.Random;
 
-public abstract class ArtifectBase {
+public abstract class Movement {
+
+
 
     private String artifectName ;
 
@@ -17,9 +21,11 @@ public abstract class ArtifectBase {
     private int bottom ;
 
 
-    public ArtifectBase(String artifectName , Board board){
+    public Movement(String artifectName , Board board){
 
         // initialization of artifects name eg (snake or Ladder)
+        this.topPositions =new int[2] ;
+        this.bottomPositions =new int[2] ;
 
         this.artifectName = artifectName ;
         this.board = board ;
@@ -32,8 +38,8 @@ public abstract class ArtifectBase {
 
 
         Random random = new Random();
-        int numbery =  random.nextInt(9) ;
-        int numberx = random.nextInt(9) ;
+        int numbery =  random.nextInt(8) ;
+        int numberx = random.nextInt(8) ;
 
 
         if(numberx < 2){
@@ -53,7 +59,7 @@ public abstract class ArtifectBase {
 
         this.topPositions[0] = topx ;
         this.topPositions[1] = topy ;
-        top = this.board.getBoard().get(topy).get(topx);
+        this.top = this.board.getBoard().get(topy).get(topx);
     }
 
     public String getName(){
@@ -66,4 +72,6 @@ public abstract class ArtifectBase {
     public int getBottom(){
         return this.bottom ;
     }
+
+    public abstract void move(Player player);
 }

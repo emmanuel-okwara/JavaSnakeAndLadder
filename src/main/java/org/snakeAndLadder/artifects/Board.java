@@ -4,6 +4,8 @@ import java.util.*;
 
 public class Board {
 
+
+
     private List<List<Integer>> board ;
 
     public Board() {
@@ -40,10 +42,4 @@ public class Board {
 
     }
 
-    public static void main(String[] args) {
-        Board board = new Board();
-        List<List<Integer>> b_  = board.getBoard();
-        System.out.println(b_);
-
-    }
 }

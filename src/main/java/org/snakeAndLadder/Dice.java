@@ -1,10 +1,13 @@
 package org.snakeAndLadder;
 
+import java.util.Random;
+
 public class Dice {
 
     public int roll(){
+        Random rand = new Random();
         
-        return 0;
+        return rand.nextInt(5) + 1;
     }
     
 }

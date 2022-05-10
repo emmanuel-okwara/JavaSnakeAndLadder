@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2141cf94-8bbb-4bd2-a571-d2cdcdb30396" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/snakeAndLadder/artifects/Artifects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/snakeAndLadder/dice/Dice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/snakeAndLadder/player/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/snakeAndLadder/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/snakeAndLadder/artifects/ArtifectsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/snakeAndLadder/artifects/BoardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/snakeAndLadder/artifects/MovementTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/snakeAndLadder/player/PlayerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/snakeAndLadder/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/snakeAndLadder/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/snakeAndLadder/artifects/ArtifectBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/snakeAndLadder/artifects/Movement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/snakeAndLadder/artifects/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/snakeAndLadder/artifects/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/snakeAndLadder/artifects/Ladder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/snakeAndLadder/artifects/Ladder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/snakeAndLadder/artifects/Snake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/snakeAndLadder/artifects/Snake.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="28y3tF0wemO2hN05AGP6fhzs23V" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "E:/Documents/funday"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.snakeAndLadder.dice" />
+      <recent name="org.snakeAndLadder.player" />
+      <recent name="org.snakeAndLadder.artifects" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.DiceTest.roll">
+    <configuration name="DiceTest.roll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SnakeAndLadder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.snakeAndLadder.dice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.snakeAndLadder.dice" />
+      <option name="MAIN_CLASS_NAME" value="org.snakeAndLadder.dice.DiceTest" />
+      <option name="METHOD_NAME" value="roll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovementTest.artifects" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SnakeAndLadder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.snakeAndLadder.artifects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.snakeAndLadder.artifects" />
+      <option name="MAIN_CLASS_NAME" value="org.snakeAndLadder.artifects.MovementTest" />
+      <option name="METHOD_NAME" value="artifects" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovementTest.move" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SnakeAndLadder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.snakeAndLadder.artifects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.snakeAndLadder.artifects" />
+      <option name="MAIN_CLASS_NAME" value="org.snakeAndLadder.artifects.MovementTest" />
+      <option name="METHOD_NAME" value="move" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovementTest.moveLadder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SnakeAndLadder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.snakeAndLadder.artifects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.snakeAndLadder.artifects" />
+      <option name="MAIN_CLASS_NAME" value="org.snakeAndLadder.artifects.MovementTest" />
+      <option name="METHOD_NAME" value="moveLadder" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayerTest.move" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SnakeAndLadder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.snakeAndLadder.player.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.snakeAndLadder.player" />
+      <option name="MAIN_CLASS_NAME" value="org.snakeAndLadder.player.PlayerTest" />
+      <option name="METHOD_NAME" value="move" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DiceTest.roll" />
+        <item itemvalue="JUnit.PlayerTest.move" />
+        <item itemvalue="JUnit.MovementTest.moveLadder" />
+        <item itemvalue="JUnit.MovementTest.move" />
+        <item itemvalue="JUnit.MovementTest.artifects" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2141cf94-8bbb-4bd2-a571-d2cdcdb30396" name="Changes" comment="" />
+      <created>1652175213375</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652175213375</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
